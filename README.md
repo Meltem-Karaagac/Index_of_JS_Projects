@@ -33,7 +33,7 @@
         <tr>
             <td>To do App</td>
             <td><a href=https://github.com/Meltem-Karaagac/JS_Todo_list>Repo details</a></td>
-            <td><a href="https://meltem-karaagac.github.io/Find_the_number/" target="_blank">App details</a></td>
+            <td><a href="https://meltem-karaagac.github.io/JS_Todo_list/" target="_blank">App details</a></td>
              <td><img src="./IMG.png" alt="javascript" height=130></td> 
         </tr>
         <tr>
