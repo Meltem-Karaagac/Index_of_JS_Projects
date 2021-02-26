@@ -48,14 +48,18 @@
             <td><a href="https://meltem-karaagac.github.io/Hangman_project/" target="_blank">App details</a></td>
           <td><img src="./IMG.png" alt="javascript" height=130></td> 
         </tr>
-       
+       <tr> 
+            <td>Calculator App</td>
+            <td><a href="https://github.com/Meltem-Karaagac/Calculator_project" target="_blank">Repo details</a></td>
+            <td><a href="https://meltem-karaagac.github.io/Calculator_project/" target="_blank">App details</a></td>
+            <td><img src="./IMG.png" alt="javascript" height=130></td> 
+        </tr>
         <tr>
             <td>Perfect Number App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Perfect_number_web" target="_blank">Repo details</a></td>
             <td><a href="https://meltem-karaagac.github.io/Perfect_number_web/" target="_blank">App details</a></td>
              <td><img src="./IMG.png" alt="javascript" height=130></td> 
         </tr>
-        
-</tbody>
+        </tbody>
 </table>
 
