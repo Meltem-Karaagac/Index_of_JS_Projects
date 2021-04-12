@@ -19,7 +19,7 @@
             <td><img src="./IMG.png" alt="javascript" height=130></td> 
         </tr>
         <tr>
-            <td>JS Clock App</td>
+            <td>Clock App</td>
             <td><a href="https://github.com/Meltem-Karaagac/Clock_project" target="_blank">Repo details</a></td>
             <td><a href="https://meltem-karaagac.github.io/Clock_project/" target="_blank">App details</a></td>
             <td><img src="./IMG.png" alt="javascript" height=130 ></td> 
